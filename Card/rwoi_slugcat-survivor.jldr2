@@ -1,0 +1,8 @@
+{
+    "name": "slugcat-survivor",
+    "modPrefix": "rwoi",
+    "displayedname": "求生者",
+    "texture": "Survivor.png",
+    "baseAttack": 0,
+    "baseHealth": 1
+}

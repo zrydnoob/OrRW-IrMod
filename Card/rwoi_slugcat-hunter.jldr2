@@ -1,0 +1,8 @@
+{
+    "name": "slugcat-hunter",
+    "modPrefix": "rwoi",
+    "displayedname": "猎手",
+    "texture": "Hunter.png",
+    "baseAttack": 1,
+    "baseHealth": 1
+}

@@ -1,0 +1,9 @@
+{
+    "name": "spear",
+    "modPrefix": "rwoi",
+    "displayedname": "矛",
+    "texture": "Spear.png",
+    "baseAttack": 0,
+    "baseHealth": 2,
+    "abilities": ["BuffNeighbours", "BuffNeighbours"]
+}
